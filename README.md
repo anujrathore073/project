@@ -43,7 +43,7 @@ The Expense Tracker features a simple and easy-to-navigate interface, ensuring a
 
    ```bash
    gh repo clone anujrathore073/project
-   cd Expense-Tracker
+   cd Project
    ```
 
 2. Install the required dependencies
