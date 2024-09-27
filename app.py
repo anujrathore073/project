@@ -175,6 +175,7 @@ elif selected == "Data Overview":
         col2.metric("Total Expenditure", f"{total_expenditure}")    # Display total expenditure 
         col3.metric("Remaining Balance", f"{remaining_balance}")    # Display remaining balance 
 
+
 elif selected == "Data Visualization":
     # Create a list of expenses and their values
     expense_data = [
